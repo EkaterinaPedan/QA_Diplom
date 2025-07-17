@@ -4,7 +4,6 @@ HELP.md
 google-services.json
 build/
 app/release/
-allure-results/
 
 ### STS ###
 .apt_generated
